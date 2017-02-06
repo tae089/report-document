@@ -1,0 +1,15 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-02-07 04:01:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:01:35 --> Unable to connect to the database
+ERROR - 2017-02-07 04:02:20 --> Severity: Warning --> mysqli::real_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'ci3_adminlte_hmvc' D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:02:20 --> Unable to connect to the database
+ERROR - 2017-02-07 04:02:23 --> Severity: Warning --> mysqli::real_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'ci3_adminlte_hmvc' D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:02:23 --> Unable to connect to the database
+ERROR - 2017-02-07 04:10:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1044): Access denied for user ''@'localhost' to database 'ci3_adminlte_hmvc' D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:10:00 --> Unable to connect to the database
+ERROR - 2017-02-07 04:23:01 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:23:01 --> Unable to connect to the database
+ERROR - 2017-02-07 04:23:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) D:\xampp\htdocs\report-document\system\database\drivers\mysqli\mysqli_driver.php 202
+ERROR - 2017-02-07 04:23:30 --> Unable to connect to the database
+ERROR - 2017-02-07 04:38:31 --> Could not find the language line "bf_or"
